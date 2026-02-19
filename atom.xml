@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ruiyiYang0122.github.io</id>
+    <id>https://ruiyiyang0122.github.io</id>
     <title>Pioneer&#39;s Robotics Lab</title>
     <subtitle>Autonomous Systems &amp; AI</subtitle>
     <icon>https://ruiyiyang0122.github.io/assets/favicon.ico</icon>
-    <link href="https://ruiyiYang0122.github.io" />
+    <link href="https://ruiyiyang0122.github.io" />
     <author>
       <name>Pioneer</name>
     </author>
