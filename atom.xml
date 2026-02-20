@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ruiyiyang0122.github.io</id>
-    <title>Pioneer&#39;s Robotics Lab</title>
-    <subtitle>Autonomous Systems &amp; AI</subtitle>
+    <title>恭喜你发现了yangry的秘密基地(*^▽^*)</title>
+    <subtitle>Welcome！</subtitle>
     <icon>https://ruiyiyang0122.github.io/assets/favicon.ico</icon>
     <link href="https://ruiyiyang0122.github.io" />
     <author>
-      <name>Pioneer</name>
+      <name>yangry</name>
     </author>
     <updated>2026-02-19T18:08:59.677Z</updated>
     <category term="Robotics" />
