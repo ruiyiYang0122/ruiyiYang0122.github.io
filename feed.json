@@ -7,6 +7,19 @@
     "home_page_url": "https://ruiyiyang0122.github.io",
     "items": [
         {
+            "id": "https://ruiyiyang0122.github.io/2026/02/23/coding-1/",
+            "url": "https://ruiyiyang0122.github.io/2026/02/23/coding-1/",
+            "title": "算法基础模版",
+            "date_published": "2026-02-23T18:30:00.000Z",
+            "content_html": "<h2 id=\"本篇文章为个人总结的算法模版无序版总结持续更新\"><a class=\"anchor\" href=\"#本篇文章为个人总结的算法模版无序版总结持续更新\">#</a> 本篇文章为个人总结的算法模版，无序版总结，持续更新</h2>\n",
+            "tags": [
+                "编程",
+                "C/C++",
+                "算法",
+                "蓝桥杯"
+            ]
+        },
+        {
             "id": "https://ruiyiyang0122.github.io/2026/02/19/hello-world/",
             "url": "https://ruiyiyang0122.github.io/2026/02/19/hello-world/",
             "title": "Hello World",

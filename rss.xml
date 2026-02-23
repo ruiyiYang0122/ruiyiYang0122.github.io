@@ -10,11 +10,23 @@
         </author>
         <description>计算机 || 生活 || 爱好</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 19 Feb 2026 18:08:59 +0000</pubDate>
-        <lastBuildDate>Thu, 19 Feb 2026 18:08:59 +0000</lastBuildDate>
+        <pubDate>Mon, 23 Feb 2026 18:30:00 +0000</pubDate>
+        <lastBuildDate>Mon, 23 Feb 2026 18:30:00 +0000</lastBuildDate>
         <category term="Robotics" />
         <category term=" AI" />
         <category term=" HPC" />
+        <item>
+            <guid isPermalink="true">https://ruiyiyang0122.github.io/2026/02/23/coding-1/</guid>
+            <title>算法基础模版</title>
+            <link>https://ruiyiyang0122.github.io/2026/02/23/coding-1/</link>
+            <category term="编程" scheme="https://ruiyiyang0122.github.io/categories/%E7%BC%96%E7%A8%8B/" />
+            <category term="C/C++" scheme="https://ruiyiyang0122.github.io/categories/%E7%BC%96%E7%A8%8B/C-C/" />
+            <category term="算法" scheme="https://ruiyiyang0122.github.io/tags/%E7%AE%97%E6%B3%95/" />
+            <category term="蓝桥杯" scheme="https://ruiyiyang0122.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/" />
+            <pubDate>Mon, 23 Feb 2026 18:30:00 +0000</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;本篇文章为个人总结的算法模版无序版总结持续更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本篇文章为个人总结的算法模版无序版总结持续更新&#34;&gt;#&lt;/a&gt; 本篇文章为个人总结的算法模版，无序版总结，持续更新&lt;/h2&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://ruiyiyang0122.github.io/2026/02/19/hello-world/</guid>
             <title>Hello World</title>

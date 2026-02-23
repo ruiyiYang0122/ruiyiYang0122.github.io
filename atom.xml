@@ -8,10 +8,22 @@
     <author>
       <name>yangry</name>
     </author>
-    <updated>2026-02-19T18:08:59.677Z</updated>
+    <updated>2026-02-23T18:30:00.000Z</updated>
     <category term="Robotics" />
     <category term=" AI" />
     <category term=" HPC" />
+    <entry>
+        <id>https://ruiyiyang0122.github.io/2026/02/23/coding-1/</id>
+        <title>算法基础模版</title>
+        <link rel="alternate" href="https://ruiyiyang0122.github.io/2026/02/23/coding-1/"/>
+        <content type="html">&lt;h2 id=&#34;本篇文章为个人总结的算法模版无序版总结持续更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本篇文章为个人总结的算法模版无序版总结持续更新&#34;&gt;#&lt;/a&gt; 本篇文章为个人总结的算法模版，无序版总结，持续更新&lt;/h2&gt;
+</content>
+        <category term="编程" scheme="https://ruiyiyang0122.github.io/categories/%E7%BC%96%E7%A8%8B/" />
+        <category term="C/C++" scheme="https://ruiyiyang0122.github.io/categories/%E7%BC%96%E7%A8%8B/C-C/" />
+        <category term="算法" scheme="https://ruiyiyang0122.github.io/tags/%E7%AE%97%E6%B3%95/" />
+        <category term="蓝桥杯" scheme="https://ruiyiyang0122.github.io/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/" />
+        <updated>2026-02-23T18:30:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://ruiyiyang0122.github.io/2026/02/19/hello-world/</id>
         <title>Hello World</title>
